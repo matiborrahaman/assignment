@@ -1,0 +1,81 @@
+.matiborfashion{
+    color: #8EA927;
+    font-weight: 500;
+    font-size: 34px;
+    font-family: 'Lobster', cursive;
+}
+.slider_details{
+    margin-top: 20%;
+    margin-left: 5px;
+}
+ 
+.bg{
+    background-color: #FFFBED;
+}
+.winter{
+    color: #3B3958;
+    font-weight: bold;
+}
+.card img{
+    height: 300px;
+    width: 250px;
+    margin-left: 50px;
+    background-color: #F1F1EE;
+    margin-top: 25px;
+
+}
+.card{
+    border:10px solid #fff7f7;;
+    background-color: #F1F1EE;
+    border-radius: 5px;
+ 
+}
+.bbg{
+    background-color: #8CA724;
+}
+.prize{
+    color:orange;
+    font-weight: bold;
+    font-size: 28px;
+
+    
+}
+.details{
+    margin-bottom: 10px;
+}
+.endbg{
+    box-shadow: 0px 0px 7px -3px;
+}
+.endbg img{
+    width: 100px;
+    height: 80px;
+
+}
+ .lastimg{
+     margin-top: 115px;
+ }
+ .history h2{
+     color:orange
+ }
+ .history p{
+     color: #62717b;
+     font-size: 18px;
+    
+ }
+ .history{
+    border: 0.5px solid #ddd;
+ }
+ .fotter{
+    text-align: center;
+    margin-top: 100px;
+
+}
+.top_footer{}
+.bottom_fotter{
+    font-size: 25px;
+
+}
+ 
+.footer{
+    background-color: #e0e0e0;
+}
